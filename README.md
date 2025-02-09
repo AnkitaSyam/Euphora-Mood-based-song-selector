@@ -15,8 +15,6 @@ Euphora is a mood-based song selector that helps users find music based on their
 ##The Solution
 We identify the mood of the user and plays songs according to their mood
 
-## Technical Details
-
 ### Technologies/Components Used
 For Software:
 - Languages used: HTML, CSS, JavaScript
@@ -27,8 +25,8 @@ For Software:
 For Software: Basic Web App
 
 #### Screenshots 
-![My Euphora](euphora-song.jpg)
 ![My Euphora](euphora.jpg)
+![My Euphora](euphora-song.jpg)
 
 #### Video
 [https://drive.google.com/file/d/1Km7liR2r15ewsleptRgTV2kVujx1KQxp/view?usp=drivesdk]
