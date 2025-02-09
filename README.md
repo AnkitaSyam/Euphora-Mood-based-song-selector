@@ -54,7 +54,7 @@ For Software:
 
 
 #### Video
-[https://drive.google.com/drive/u/0/folders/1YBBMGuoWkd2WXM3DVZSygNCUYzkiTmB0]
+[https://drive.google.com/file/d/1Km7liR2r15ewsleptRgTV2kVujx1KQxp/view?usp=drivesdk]
 
 
 
