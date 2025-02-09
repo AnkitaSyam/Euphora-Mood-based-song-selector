@@ -19,3 +19,9 @@ Ever wanted music that matches your mood without having to think about it? **Eup
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/yourusername/euphora.git
+   
+ ## Screenshot 📸
+
+Here's a preview of **Euphora** in action:
+
+![Euphora Screenshot](Euphora.jpg)
