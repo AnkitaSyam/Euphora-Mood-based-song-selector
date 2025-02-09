@@ -1,6 +1,6 @@
 
 
-  # [Euphora] 🎯
+  #Euphora 🎵
 
 
 ### Team Name: Innovate
