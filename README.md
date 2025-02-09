@@ -1,4 +1,4 @@
-# EUPHORIA🎵
+# EUPHORA🎵
 
 ### Team Name: Innovate
 
