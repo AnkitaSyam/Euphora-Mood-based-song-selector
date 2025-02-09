@@ -26,7 +26,6 @@ For Software: Basic Web App
 
 #### Screenshots 
 ![My Euphora](euphora.jpg)
-![My Euphora](euphora-song.jpg)
 
 #### Video
 [https://drive.google.com/file/d/1Km7liR2r15ewsleptRgTV2kVujx1KQxp/view?usp=drivesdk]
