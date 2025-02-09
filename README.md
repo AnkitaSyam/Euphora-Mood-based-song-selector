@@ -28,7 +28,7 @@ For Software: Basic Web App
 ![My Euphora](euphora.jpg)
 
 #### Video
-[https://drive.google.com/file/d/1Km7liR2r15ewsleptRgTV2kVujx1KQxp/view?usp=drivesdk]
+https://drive.google.com/file/d/1Km7liR2r15ewsleptRgTV2kVujx1KQxp/view?usp=drivesdk
 
 ## Team Contributions
 - Ankita Syam
