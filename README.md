@@ -43,9 +43,11 @@ For Software: Basic web app
 For Software:
 
 #### Screenshots (Add at least 3)
-![Euphora Screenshot](Euphora.jpg)
+![Euphora Screenshot](Euphor2.jpg)
 
-![Euphora Screenshot](euphora2.jpg)
+![Euphora Screenshot](Euphora3.jpg)
+
+
 
 
 
